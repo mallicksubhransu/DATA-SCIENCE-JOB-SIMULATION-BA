@@ -68,6 +68,8 @@ This project aims to:
    - Summarize the findings from the sentiment analysis, keyword analysis, and buying behavior prediction.
    - Use PowerPoint to create slides that effectively communicate the insights and results.
 
+![Screenshot 2024-05-29 221243](https://github.com/mallicksubhransu/DATA-SCIENCE-JOB-SIMULATION-BA/assets/114018899/f9276050-8ff5-4364-8088-b8ff25d4ac1b)
+
 ## Installation and Setup
 
 1. **Clone the Repository**:
@@ -85,7 +87,6 @@ This project aims to:
    - Ensure you have the necessary API keys and access credentials for any third-party data sources.
    - Create a `.env` file to store your environment variables securely.
 
-![Screenshot 2024-05-29 221243](https://github.com/mallicksubhransu/DATA-SCIENCE-JOB-SIMULATION-BA/assets/114018899/f9276050-8ff5-4364-8088-b8ff25d4ac1b)
 
 
 ## Contributing
