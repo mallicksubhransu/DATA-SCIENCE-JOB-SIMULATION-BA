@@ -10,9 +10,8 @@ Welcome to the GitHub repository for the Business Analyst Internship project. Th
 5. [Buying Behavior Prediction](#buying-behavior-prediction)
 6. [Results Presentation](#results-presentation)
 7. [Installation and Setup](#installation-and-setup)
-8. [Usage](#usage)
-9. [Contributing](#contributing)
-10. [License](#license)
+8. [Contributing](#contributing)
+9. [License](#license)
 
 ## Project Overview
 
