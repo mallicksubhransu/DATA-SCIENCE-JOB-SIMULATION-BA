@@ -67,6 +67,9 @@ This project aims to:
 1. **Create PowerPoint Presentation**:
    - Summarize the findings from the sentiment analysis, keyword analysis, and buying behavior prediction.
    - Use PowerPoint to create slides that effectively communicate the insights and results.
+     
+![Screenshot 2024-05-29 222154](https://github.com/mallicksubhransu/DATA-SCIENCE-JOB-SIMULATION-BA/assets/114018899/60b9a4ca-aeca-4917-b3f2-b04410fc8e5d)
+
 
 ![Screenshot 2024-05-29 221243](https://github.com/mallicksubhransu/DATA-SCIENCE-JOB-SIMULATION-BA/assets/114018899/f9276050-8ff5-4364-8088-b8ff25d4ac1b)
 
