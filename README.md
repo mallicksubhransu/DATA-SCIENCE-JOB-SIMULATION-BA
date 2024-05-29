@@ -85,32 +85,8 @@ This project aims to:
    - Ensure you have the necessary API keys and access credentials for any third-party data sources.
    - Create a `.env` file to store your environment variables securely.
 
-## Usage
+![Screenshot 2024-05-29 221243](https://github.com/mallicksubhransu/DATA-SCIENCE-JOB-SIMULATION-BA/assets/114018899/f9276050-8ff5-4364-8088-b8ff25d4ac1b)
 
-1. **Run Data Collection Script**:
-   ```bash
-   python scrape_reviews.py
-   ```
-
-2. **Perform Sentiment Analysis**:
-   ```bash
-   python sentiment_analysis.py
-   ```
-
-3. **Generate Word Cloud**:
-   ```bash
-   python generate_wordcloud.py
-   ```
-
-4. **Train and Evaluate Random Forest Model**:
-   ```bash
-   python train_random_forest.py
-   ```
-
-5. **Create PowerPoint Presentation**:
-   ```bash
-   python create_presentation.py
-   ```
 
 ## Contributing
 
