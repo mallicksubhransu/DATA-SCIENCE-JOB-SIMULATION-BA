@@ -10,8 +10,7 @@ Welcome to the GitHub repository for the Business Analyst Internship project. Th
 5. [Buying Behavior Prediction](#buying-behavior-prediction)
 6. [Results Presentation](#results-presentation)
 7. [Installation and Setup](#installation-and-setup)
-8. [Contributing](#contributing)
-9. [License](#license)
+
 
 ## Project Overview
 
@@ -90,14 +89,6 @@ This project aims to:
    - Create a `.env` file to store your environment variables securely.
 
 
-
-## Contributing
-
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before getting started.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
